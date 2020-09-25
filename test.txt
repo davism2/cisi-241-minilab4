@@ -1,4 +1,7 @@
-This is just
+This is just the broken
 a file
-to
+to Maybe fix
 test how to merge and use git
+
+
+gifts of the life
