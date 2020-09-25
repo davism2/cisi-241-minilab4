@@ -1,4 +1,6 @@
 This is just
 a file
-to
+Remote changing of the file
+to better learn
+to Welcome
 test how to merge and use git
