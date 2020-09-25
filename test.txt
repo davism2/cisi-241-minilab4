@@ -1,6 +1,9 @@
 This is just the broken
 a file
-to Maybe fix
+Remote changing of the file
+to better learn
+to Welcome
+
 test how to merge and use git
 
 
